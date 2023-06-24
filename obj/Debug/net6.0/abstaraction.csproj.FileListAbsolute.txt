@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\bin\Debug\net6.0\abstaraction.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\bin\Debug\net6.0\abstaraction.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\bin\Debug\net6.0\abstaraction.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\bin\Debug\net6.0\abstaraction.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\bin\Debug\net6.0\abstaraction.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\refint\abstaraction.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\abstaraction.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\abstaraction\obj\Debug\net6.0\ref\abstaraction.dll
